@@ -6,7 +6,7 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 [Google's R Style Guide][11] - Style guide from Google to make it easy to read, share, and verify code.  
 [Stata Coding Toolkit][12] - Coding style guide for Stata  
 
-**Miscellaneous tools**
+**Miscellaneous tools**  
 [ai2html][1] - is an open-source script for Adobe Illustrator that converts your Illustrator documents into html and css.  
 [Dimension Explorer 1.0][2] is a tool for working with time-aware and multidimensional data in ArcMap 10.3 and above.  It provides slider controls to make navigating through the dimensions in a map layer simple and easy.  
 [ColorBrewer][14] - Color advice for cartography (maps)  
