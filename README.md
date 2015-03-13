@@ -11,6 +11,9 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 [Dimension Explorer 1.0][2] is a tool for working with time-aware and multidimensional data in ArcMap 10.3 and above.  It provides slider controls to make navigating through the dimensions in a map layer simple and easy.  
 [ColorBrewer][14] - Color advice for cartography (maps)  
 [Power Caculations][15] - online power calculator (see also [Gpower][16] and [Optimal Design][17])  
+[Markdown Tables Generator][18] - tool for generating markdown code for tables  
+[Extract Tables from PDFs][19] - tool for extracting tables from PDF documents  (requires Java)
+
 
 
 **R**  
@@ -27,8 +30,10 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 **Excel**  
 [Easy Excel][10] - Web tutorial on how to use Excel.
 
+**Python**  
+[Programming in Python for Economists][20] - sequence of lectures on quantitative economic modeling using Python  
 
-**Books**
+**Books**  
 [Statistical Rules of Thumb][13] - Amazon link to book.  
 
 
@@ -51,3 +56,6 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 [15]: http://www.evanmiller.org/ab-testing/sample-size.html#!46.8;80;5;10;1
 [16]: http://www.gpower.hhu.de/ 
 [17]: http://sitemaker.umich.edu/group-based/optimal_design_software  
+[18]: http://www.tablesgenerator.com/markdown_tables  
+[19]: http://tabula.technology/
+[20]: http://quant-econ.net/py/learning_python.html
