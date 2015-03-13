@@ -9,10 +9,13 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 **Excel**  
 [Easy Excel][10] - Web tutorial on how to use Excel.
 
-**Miscellaneous tools**  
-[ai2html][1] - is an open-source script for Adobe Illustrator that converts your Illustrator documents into html and css.  
+**GIS**  
 [Dimension Explorer 1.0][2] is a tool for working with time-aware and multidimensional data in ArcMap 10.3 and above.  It provides slider controls to make navigating through the dimensions in a map layer simple and easy.  
 [ColorBrewer][14] - Color advice for cartography (maps).  
+
+
+**Miscellaneous tools**  
+[ai2html][1] - is an open-source script for Adobe Illustrator that converts your Illustrator documents into html and css.  
 [CoffeeScript][21] - CoffeeScript is a little language that compiles into JavaScript.  
 [Power Caculations][15] - online power calculator (see also [Gpower][16] and [Optimal Design][17]).  
 [Markdown Tables Generator][18] - tool for generating markdown code for tables. 
@@ -26,6 +29,7 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 **Stata**    
 [coefplot][5] [presentation][6] - Stata module to plot regression coefficients and other results  
 [estout][7] - The estout package provides tools for making regression tables in Stata  
+[avplot][22] - regress postestimation diagnostic plots (one of many)  
 
 **Python**  
 [Programming in Python for Economists][20] - sequence of lectures on quantitative economic modeling using Python  
@@ -57,3 +61,4 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 [19]: http://tabula.technology/
 [20]: http://quant-econ.net/py/learning_python.html
 [21]: http://coffeescript.org/  
+[22]: 
