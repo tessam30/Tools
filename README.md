@@ -18,7 +18,7 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 [ai2html][1] - is an open-source script for Adobe Illustrator that converts your Illustrator documents into html and css.  
 [CoffeeScript][21] - CoffeeScript is a little language that compiles into JavaScript.  
 [Power Caculations][15] - online power calculator (see also [Gpower][16] and [Optimal Design][17]).  
-[Markdown Tables Generator][18] - tool for generating markdown code for tables. 
+[Markdown Tables Generator][18] - tool for generating markdown code for tables.   
 [Extract Tables from PDFs][19] - tool for extracting tables from PDF documents  (requires Java).
 
 **R**  
