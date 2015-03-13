@@ -61,4 +61,4 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 [19]: http://tabula.technology/
 [20]: http://quant-econ.net/py/learning_python.html
 [21]: http://coffeescript.org/  
-[22]: 
+[22]: http://www.stata.com/manuals13/rregresspostestimationdiagnosticplots.pdf  
