@@ -21,7 +21,7 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 **R**  
 [Steamgraphs][3] - Stacked area graphs with a free baseline  
 [htmlwidgets][4] - Use JavaScript visualization libraries at the R console, just like plots  
-[ggplot2][8] [help][9] - For making simple yet elegant graphics
+[ggplot2][8] [help][9] - For making simple, yet elegant graphics
 
 **Stata**    
 [coefplot][5] [presentation][6] - Stata module to plot regression coefficients and other results  
