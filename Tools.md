@@ -18,15 +18,14 @@
 [Extract Tables from PDFs][19] - tool for extracting tables from PDF documents  (requires Java).
 
 **R**  
-[Steamgraphs][3] - Stacked area graphs with a free baseline  
 [htmlwidgets][4] - Use JavaScript visualization libraries at the R console, just like plots  
 [ggplot2][8] [help][9] - For making simple, yet elegant graphics
-
+[Steamgraphs][3] - Stacked area graphs with a free baseline    
 
 **Stata**    
+[avplot][22] - regress postestimation diagnostic plots (one of many)  
 [coefplot][5] [presentation][6] - Stata module to plot regression coefficients and other results  
 [estout][7] - The estout package provides tools for making regression tables in Stata  
-[avplot][22] - regress postestimation diagnostic plots (one of many)  
 [estrat][23] - Endogenous Stratification for Randomized Experiments  
 [reclink][24] - record linkage methods to match observations between two datasets where no perfect key fields exist -- essentially a fuzzy merge  
 [man undocumented] [25] - Undocumented Stata commands  
