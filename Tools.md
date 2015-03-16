@@ -29,6 +29,7 @@
 [avplot][22] - regress postestimation diagnostic plots (one of many)  
 [estrat][23] - Endogenous Stratification for Randomized Experiments  
 [reclink][24] - record linkage methods to match observations between two datasets where no perfect key fields exist -- essentially a fuzzy merge  
+[man undocumented] [25] - Undocumented Stata commands  
 
 **Python**  
 [Programming in Python for Economists][20] - sequence of lectures on quantitative economic modeling using Python  
@@ -62,3 +63,4 @@
 [22]: http://www.stata.com/manuals13/rregresspostestimationdiagnosticplots.pdf  
 [23]: https://ideas.repec.org/c/boc/bocode/s457801.html  
 [24]: https://ideas.repec.org/c/boc/bocode/s456876.html  
+[25]: http://www.stata.com/statalist/archive/2009-11/msg00308.html  
