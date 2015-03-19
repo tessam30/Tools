@@ -27,6 +27,7 @@
 [coefplot][5] [presentation][6] - Stata module to plot regression coefficients and other results  
 [estout][7] - The estout package provides tools for making regression tables in Stata  
 [estrat][23] - Endogenous Stratification for Randomized Experiments  
+[outliers][26] - Brief discussion on detecting outliers  
 [reclink][24] - record linkage methods to match observations between two datasets where no perfect key fields exist -- essentially a fuzzy merge  
 [man undocumented] [25] - Undocumented Stata commands  
 
@@ -63,3 +64,4 @@
 [23]: https://ideas.repec.org/c/boc/bocode/s457801.html  
 [24]: https://ideas.repec.org/c/boc/bocode/s456876.html  
 [25]: http://www.stata.com/statalist/archive/2009-11/msg00308.html  
+[26]: https://www3.nd.edu/~rwilliam/stats2/l24.pdf  
