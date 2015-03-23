@@ -24,7 +24,7 @@
 
 **Stata**    
 [avplot][22] - regress postestimation diagnostic plots (one of many)  
-[coefplot][5] [presentation][6] - Stata module to plot regression coefficients and other results  
+[coefplot][5] [(presentation)][6] - Stata module to plot regression coefficients and other results  
 [estout][7] - The estout package provides tools for making regression tables in Stata  
 [estrat][23] - Endogenous Stratification for Randomized Experiments  
 [outliers][26] - Brief discussion on detecting outliers  
