@@ -32,7 +32,8 @@
 [man undocumented] [25] - Undocumented Stata commands  
 
 **Python**  
-[Programming in Python for Economists][20] - sequence of lectures on quantitative economic modeling using Python  
+[Programming in Python for Economists][20] - sequence of lectures on quantitative economic modeling using Python 
+[Python for Economists][27] - Python primer written for economists  
 
 **Books**  
 [Statistical Rules of Thumb][13] - Advice on how to setup a statistical analysis project (book). 
@@ -65,3 +66,4 @@
 [24]: https://ideas.repec.org/c/boc/bocode/s456876.html  
 [25]: http://www.stata.com/statalist/archive/2009-11/msg00308.html  
 [26]: https://www3.nd.edu/~rwilliam/stats2/l24.pdf  
+[27]: http://cs.brown.edu/~ambell/pyseminar/Python_for_Economists.pdf 
