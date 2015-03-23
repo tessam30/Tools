@@ -19,7 +19,7 @@
 
 **R**  
 [htmlwidgets][4] - Use JavaScript visualization libraries at the R console, just like plots  
-[ggplot2][8] [help][9] - For making simple, yet elegant graphics
+[ggplot2][8] [help][9] - For making simple, yet elegant graphics  
 [Steamgraphs][3] - Stacked area graphs with a free baseline    
 
 **Stata**    
