@@ -21,6 +21,7 @@
 [htmlwidgets][4] - Use JavaScript visualization libraries at the R console, just like plots  
 [ggplot2][8] [help][9] - For making simple, yet elegant graphics  
 [Steamgraphs][3] - Stacked area graphs with a free baseline    
+[ProjectTemplate][28] - system for automating the thoughtless parts of a data analysis project
 
 **Stata**    
 [avplot][22] - regress postestimation diagnostic plots (one of many)  
@@ -67,3 +68,4 @@
 [25]: http://www.stata.com/statalist/archive/2009-11/msg00308.html  
 [26]: https://www3.nd.edu/~rwilliam/stats2/l24.pdf  
 [27]: http://cs.brown.edu/~ambell/pyseminar/Python_for_Economists.pdf 
+[28]: http://projecttemplate.net/ 
