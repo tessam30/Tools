@@ -2,6 +2,7 @@
 **Coding Best Practices**  
 [Google's R Style Guide][11] - Style guide from Google to make it easy to read, share, and verify code.  
 [Stata Coding Toolkit][12] - Coding style guide for Stata  
+[Git/Github Guide][29] - A minimal introduction to git & github  
 
 **Excel**  
 [Easy Excel][10] - Web tutorial on how to use Excel.
@@ -69,3 +70,4 @@
 [26]: https://www3.nd.edu/~rwilliam/stats2/l24.pdf  
 [27]: http://cs.brown.edu/~ambell/pyseminar/Python_for_Economists.pdf 
 [28]: http://projecttemplate.net/ 
+[29]: http://kbroman.org/github_tutorial/  
