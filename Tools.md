@@ -35,7 +35,7 @@
 [man undocumented] [25] - Undocumented Stata commands  
 
 **Python**  
-[Programming in Python for Economists][20] - sequence of lectures on quantitative economic modeling using Python 
+[Programming in Python for Economists][20] - sequence of lectures on quantitative economic modeling using Python  
 [Python for Economists][27] - Python primer written for economists  
 
 **Books**  
