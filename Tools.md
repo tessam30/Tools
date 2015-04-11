@@ -3,6 +3,7 @@
 [Google's R Style Guide][11] - Style guide from Google to make it easy to read, share, and verify code.  
 [Stata Coding Toolkit][12] - Coding style guide for Stata  
 [Git/Github Guide][29] - A minimal introduction to git & github  
+[Strategies and Principles][30] - An introduction to tools and principles of data science  
 
 **Excel**  
 [Easy Excel][10] - Web tutorial on how to use Excel.
@@ -71,3 +72,4 @@
 [27]: http://cs.brown.edu/~ambell/pyseminar/Python_for_Economists.pdf 
 [28]: http://projecttemplate.net/ 
 [29]: http://kbroman.org/github_tutorial/  
+[30]: http://www.fields.utoronto.ca/video-archive/2015/02/318-4374  
