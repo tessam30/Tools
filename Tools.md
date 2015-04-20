@@ -39,8 +39,10 @@
 [Python for Economists][27] - Python primer written for economists  
 
 **Books**  
-[Statistical Rules of Thumb][13] - Advice on how to setup a statistical analysis project (book). 
+[Statistical Rules of Thumb][13] - Advice on how to setup a statistical analysis project (book).  
 
+**Impact Evaluation Resources**  
+[Inter-American Development Bank Eval Hub][31]  
 
 ===
 [1]: http://ai2html.org/  
@@ -73,3 +75,4 @@
 [28]: http://projecttemplate.net/ 
 [29]: http://kbroman.org/github_tutorial/  
 [30]: http://www.fields.utoronto.ca/video-archive/2015/02/318-4374  
+[31]: http://www.iadb.org/en/topics/development-effectiveness/evaluation-hub/home,17844.html  
