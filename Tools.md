@@ -24,6 +24,7 @@
 [ggplot2][8] [help][9] - For making simple, yet elegant graphics  
 [Steamgraphs][3] - Stacked area graphs with a free baseline    
 [ProjectTemplate][28] - system for automating the thoughtless parts of a data analysis project
+[R for the QUantitative Social Scientist][33]  
 
 **Stata**    
 [avplot][22] - regress postestimation diagnostic plots (one of many)  
@@ -78,3 +79,4 @@
 [30]: http://www.fields.utoronto.ca/video-archive/2015/02/318-4374  
 [31]: http://www.iadb.org/en/topics/development-effectiveness/evaluation-hub/home,17844.html  
 [32]: http://cameron.econ.ucdavis.edu/research/Cameron_Miller_JHR_2015_February.pdf  
+[33]: http://www.rensenieuwenhuis.nl/documents/Applied%20R.pdf  
