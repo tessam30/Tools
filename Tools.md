@@ -33,6 +33,7 @@
 [outliers][26] - Brief discussion on detecting outliers  
 [reclink][24] - record linkage methods to match observations between two datasets where no perfect key fields exist -- essentially a fuzzy merge  
 [man undocumented] [25] - Undocumented Stata commands  
+[Clustering Standard Errors][32] - A Practitioner’s Guide to Cluster-Robust Inference  
 
 **Python**  
 [Programming in Python for Economists][20] - sequence of lectures on quantitative economic modeling using Python  
@@ -76,3 +77,4 @@
 [29]: http://kbroman.org/github_tutorial/  
 [30]: http://www.fields.utoronto.ca/video-archive/2015/02/318-4374  
 [31]: http://www.iadb.org/en/topics/development-effectiveness/evaluation-hub/home,17844.html  
+[32]: http://cameron.econ.ucdavis.edu/research/Cameron_Miller_JHR_2015_February.pdf  
