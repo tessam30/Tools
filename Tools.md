@@ -58,7 +58,7 @@
 [9]: http://docs.ggplot2.org/current/  
 [10]: http://www.excel-easy.com/  
 [11]: https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml  
-[12]: http://cepr.harvard.edu/cepr-resources/files/news-events/sdp-toolkit-coding-style-guide.pdf  
+[12]: http://sdp.cepr.harvard.edu/files/cepr-sdp/files/sdp-toolkit-coding-style-guide.pdf  
 [13]: http://www.amazon.com/dp/0470144483/?tag=stackoverfl08-20
 [14]: http://colorbrewer.org/  
 [15]: http://www.evanmiller.org/ab-testing/sample-size.html#!46.8;80;5;10;1
