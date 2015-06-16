@@ -11,6 +11,7 @@
 **GIS**  
 [Dimension Explorer 1.0][2] is a tool for working with time-aware and multidimensional data in ArcMap 10.3 and above.  It provides slider controls to make navigating through the dimensions in a map layer simple and easy.  
 [ColorBrewer][14] - Color advice for cartography (maps).  
+[Cartogoraphy Advice][34]  
 
 **Miscellaneous tools**  
 [ai2html][1] - is an open-source script for Adobe Illustrator that converts your Illustrator documents into html and css.  
@@ -80,3 +81,4 @@
 [31]: http://www.iadb.org/en/topics/development-effectiveness/evaluation-hub/home,17844.html  
 [32]: http://cameron.econ.ucdavis.edu/research/Cameron_Miller_JHR_2015_February.pdf  
 [33]: http://www.rensenieuwenhuis.nl/documents/Applied%20R.pdf  
+[34]: http://axismaps.github.io/thematic-cartography/  
