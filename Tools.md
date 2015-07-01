@@ -24,7 +24,7 @@
 [htmlwidgets][4] - Use JavaScript visualization libraries at the R console, just like plots  
 [ggplot2][8] [help][9] - For making simple, yet elegant graphics  
 [Steamgraphs][3] - Stacked area graphs with a free baseline    
-[ProjectTemplate][28] - system for automating the thoughtless parts of a data analysis project
+[ProjectTemplate][28] - system for automating the thoughtless parts of a data analysis project  
 [R for the Quantitative Social Scientist][33]  
 
 **Stata**    
