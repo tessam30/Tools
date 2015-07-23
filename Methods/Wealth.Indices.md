@@ -1,4 +1,4 @@
-#### [Creating Wealth Indices based on Filmer and Pritchett (2001)][1]
+##### [Creating Wealth Indices based on Filmer and Pritchett (2001)][1]
 ##### [Measuring Living Standards: Household Consumption and Wealth Indices][2]
 ##### [Measuring Inequality with Asset Indicators][3]
 ##### [DHS Wealth Index][4]  
