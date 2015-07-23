@@ -1,4 +1,7 @@
 #### [Creating Wealth Indices based on Filmer and Pritchett (2001)][1]
+##### [Measuring Living Standards: Household Consumption and Wealth Indices][2]
+##### [Measuring Inequality with Asset Indicators][3]
+##### [DHS Wealth Index][4]  
 
 | Ownership              | No     | Yes      |
 |------------------------|--------|----------|
@@ -23,3 +26,6 @@
 ===  
 
 [1]: http://www.vanderbilt.edu/lapop/insights/I0806en.pdf  
+[2]: http://siteresources.worldbank.org/INTPAH/Resources/Publications/Quantitative-Techniques/health_eq_tn04.pdf  
+[3]: http://siteresources.worldbank.org/DEC/Resources/finaljpopmckenzie1.pdf
+[4]: http://www.dhsprogram.com/topics/wealth-index/Wealth-Index-Construction.cfm  
