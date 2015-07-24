@@ -4,6 +4,7 @@
 ##### [DHS Wealth Index 1][4]
 ##### [DHS Wealth Index 2][5]  
 ##### [Review of Method][6]
+##### [Simple example][7]  
 
 | Ownership              | No     | Yes      |
 |------------------------|--------|----------|
@@ -33,3 +34,4 @@
 [4]: http://www.dhsprogram.com/topics/wealth-index/Wealth-Index-Construction.cfm  
 [5]: http://dhsprogram.com/pubs/pdf/CR6/CR6.pdf  
 [6]: http://web.missouri.edu/~kolenikovs/talks/Gustavo-Stas-PCA-Urban-Institute.pdf  
+[7]: http://www.psi.org/wp-content/uploads/2014/10/Wealth-Quintile-Guide.pdf  
