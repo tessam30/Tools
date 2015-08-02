@@ -15,6 +15,7 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 [Dimension Explorer 1.0][2] is a tool for working with time-aware and multidimensional data in ArcMap 10.3 and above.  It provides slider controls to make navigating through the dimensions in a map layer simple and easy.  
 [ColorBrewer][14] - Color advice for cartography (maps).  
 [Cartogoraphy Advice][34]  
+[Color Tool][35]  
 
 **Miscellaneous tools**  
 [ai2html][1] - is an open-source script for Adobe Illustrator that converts your Illustrator documents into html and css.  
@@ -85,3 +86,4 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 [32]: http://cameron.econ.ucdavis.edu/research/Cameron_Miller_JHR_2015_February.pdf  
 [33]: http://www.rensenieuwenhuis.nl/documents/Applied%20R.pdf  
 [34]: http://axismaps.github.io/thematic-cartography/  
+[35]: https://www.geotests.net/couleurs/gradients_inflex.html  
