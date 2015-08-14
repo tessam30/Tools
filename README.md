@@ -17,6 +17,7 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 [Cartogoraphy Advice][34]  
 [Color Tool][35]  
 [Snazzy Maps][36]  
+[Selecting Colors for Statistical Graphics][37] - article discussing how to select proper colors  
 
 **Miscellaneous tools**  
 [ai2html][1] - is an open-source script for Adobe Illustrator that converts your Illustrator documents into html and css.  
@@ -89,3 +90,4 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 [34]: http://axismaps.github.io/thematic-cartography/  
 [35]: https://www.geotests.net/couleurs/gradients_inflex.html  
 [36]: https://snazzymaps.com/  
+[37]: http://epub.wu.ac.at/1692/1/document.pdf  
