@@ -9,7 +9,10 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 [Strategies and Principles][30] - An introduction to tools and principles of data science  
 
 **Excel**  
-[Easy Excel][10] - Web tutorial on how to use Excel.
+[Easy Excel][10] - Web tutorial on how to use Excel.  
+
+**Data Visualization**  
+[colorspace][38] - Overview of the colorspace package for R  
 
 **GIS**  
 [Dimension Explorer 1.0][2] is a tool for working with time-aware and multidimensional data in ArcMap 10.3 and above.  It provides slider controls to make navigating through the dimensions in a map layer simple and easy.  
@@ -91,3 +94,4 @@ Useful code, tools, hacks, and articles. To be continually updated for coders in
 [35]: https://www.geotests.net/couleurs/gradients_inflex.html  
 [36]: https://snazzymaps.com/  
 [37]: http://epub.wu.ac.at/1692/1/document.pdf  
+[38]: https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf  
